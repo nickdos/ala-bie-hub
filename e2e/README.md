@@ -1,4 +1,4 @@
-# bie-functional-tests &nbsp;&nbsp; ![test status](https://github.com/AtlasOfLivingAustralia/ala-bie-hub/actions/workflows/e2e.yml/badge.svg)
+# bie-functional-tests &nbsp;&nbsp; ![test status](https://github.com/nickdos/ala-bie-hub/actions/workflows/e2e.yml/badge.svg)
 [Playwright](https://playwright.dev/) tests for `ala-bie-hub` web application
 
 
